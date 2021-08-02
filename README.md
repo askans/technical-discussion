@@ -8,3 +8,6 @@ So this is a demo repo for sharing ideas around communication.
 
 ## Gist
 A sample code from my [Gist code](https://gist.github.com/askans/7044ec962c91cd411de5b84937e98408)
+
+## Colab example
+A sample Jupyter in [Colab](https://colab.research.google.com/drive/13NKbv70B6-Q8KfsMq3RcndMsUVJV0S75?usp=sharing)
